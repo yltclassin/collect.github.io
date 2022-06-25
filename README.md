@@ -10,3 +10,7 @@
 在classin中，颠倒空格有很大的作用。把你的名字颠倒的放在颠倒空格后面，就会让你的名字看起来不变，实则倒转，改变撤回消息。
 
 ### [颠倒空格本人](https://yltclassin.github.io/ddkgpeople)
+
+## 像一个字符
+
+[点击此处](https://yltclassin.github.io/likabite)可以复制像一个字符但不是一个字符的东西
