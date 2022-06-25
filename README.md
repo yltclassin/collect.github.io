@@ -11,6 +11,6 @@
 
 ### [颠倒空格本人](https://yltclassin.github.io/ddkgpeople)
 
-## 像一个字符
+## 像个字符但有200B
 
-[点击此处](https://yltclassin.github.io/likabite)可以复制像一个字符但不是一个字符的东西
+[点击此处](https://yltclassin.github.io/likabite)可以复制像一个字符但有200B的东西
